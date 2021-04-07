@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Arthur Ryoo</h1>
 <h3 align="center">I'm a husband, father, and developer</h3>
 
+- ✍ You can find my projects here [portfolio]
+
 - 🌱 I’m currently learning **C#, ASP.NET CORE, and SQL**
 
 - 📫 How to reach me **jene0523@gmail.com**
@@ -43,3 +45,5 @@ Here are some ideas to get you started:
 <p><img align="left" src="https://github-readme-stats.arthur-ryoo.vercel.app/api/top-langs?username=arthur-ryoo&show_icons=true&locale=en&layout=compact" alt="arthur-ryoo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.arthur-ryoo.vercel.app/api?username=arthur-ryoo&count_private=true&show_icons=true&theme=default&hide=issues" /></p>
+
+[portfolio]: https://arthur-ryoo.github.io/
