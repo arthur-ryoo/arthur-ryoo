@@ -7,8 +7,6 @@
 
 - ✍ You can find my projects here [portfolio]
 
-- 🌱 I’m currently learning **C#, .NET Core, and SQL**
-
 - 📫 How to reach me **jene0523@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
