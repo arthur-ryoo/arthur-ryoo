@@ -3,7 +3,6 @@
 -->
 
 <h1 align="center">Hi 👋, I'm Arthur Ryoo</h1>
-<h3 align="center">I'm a husband, father, and developer</h3>
 
 - ✍ You can find my projects here [portfolio]
 
